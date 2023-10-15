@@ -9,7 +9,7 @@
 •	We used the farmwork dialog flow it a google framework.
 •	In this we make the currency converter chatbot.
 •	We deployed in telegram also.</p>
-<img src="https://verloop.io/wp-content/uploads/11-Oct-2022-1200x600.jpg" width="300" height="300" />
+<img src="https://verloop.io/wp-content/uploads/11-Oct-2022-1200x600.jpg" width="600" height="300" />
 
 
 <p>2nd project is movie recommendations project -->https://drive.google.com/drive/folders/1tC131vgQhC6NmvUEVrlRhBzJBV5A1lHU?usp=drive_link</p>
@@ -27,6 +27,6 @@ give the music type of video.
 •	Data set we used is tmdb_5000.
 </p>
 
-<img scr="https://cdn-images-1.medium.com/max/1500/1*leuI7fVkeOrKAIGOOj_T9A.png" width="300" height="300" />
+<img scr="[https://cdn-images-1.medium.com/max/1500/1*leuI7fVkeOrKAIGOOj_T9A.png](https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/08/stars-movies-1200x670-1.jpg)https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/08/stars-movies-1200x670-1.jpg" width="600" height="300" />
 
 
