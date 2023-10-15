@@ -23,7 +23,7 @@
 <p>2.	Collaborate based recommend – In this type of recommendation  the recommend on the basis of the similarity of the user they recommend the videos. Like if two user see same type of film and give aprox. Rating, and their seeing of video are almost match so this recommendation system give the recommend videos. those who doesn’t see…in clear word if a see the movies so it recommend to b and b see the movies it recommend to A because their movies are almost same so by the user of the data it recommend to each other.</p>
 <p>3.	Hybrid- contents + collaborate based approach.</p>
 <p>•	in this we have to do the content based approach.</p>
-<p>•	Approach----  Data pre-processing model bulding -->make the website   -->deploy this website.</p>
+<p>•	Approach----  Data--> pre-processing -->model bulding -->make the website   -->deploy this website.</p>
 <p>•	Data set we used is tmdb_5000.</p>
 <p>
 
