@@ -27,6 +27,6 @@ give the music type of video.
 •	Data set we used is tmdb_5000.
 </p>
 
-<img scr="[https://cdn-images-1.medium.com/max/1500/1*leuI7fVkeOrKAIGOOj_T9A.png](https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/08/stars-movies-1200x670-1.jpg)https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/08/stars-movies-1200x670-1.jpg" width="600" height="300" />
+<img scr="https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13673-018-0161-6/MediaObjects/13673_2018_161_Fig3_HTML.png" width="600" height="300" />
 
 
