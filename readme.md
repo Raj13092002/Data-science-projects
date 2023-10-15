@@ -27,6 +27,6 @@ give the music type of video.
 •	Data set we used is tmdb_5000.
 </p>
 
-<img scr="https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13673-018-0161-6/MediaObjects/13673_2018_161_Fig3_HTML.png" width="600" height="300" />
+<img scr="https://editor.analyticsvidhya.com/uploads/76889recommender-system-for-movie-recommendation.jpg" width="600" height="300" />
 
 
