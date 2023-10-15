@@ -27,6 +27,6 @@ give the music type of video.
 •	Data set we used is tmdb_5000.
 </p>
 
-<img scr="https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/08/stars-movies-1200x670-1.jpg" width="600" height="300" />
+<img src="https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2021/06/machine-learning-project-movie-recommendation-system.jpg" width="600" height="300" />
 
 
